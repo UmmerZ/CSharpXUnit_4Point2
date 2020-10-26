@@ -1,0 +1,4 @@
+C:\Users\write\source\repos\CSharpXUnit_4Point2\CSharpXUnit_4Point2\bin\Debug\netcoreapp3.1\CSharpXUnit_4Point2.exe
+C:\Users\write\source\repos\CSharpXUnit_4Point2\CSharpXUnit_4Point2\obj\Debug\netcoreapp3.1\CSharpXUnit_4Point2.csprojAssemblyReference.cache
+C:\Users\write\source\repos\CSharpXUnit_4Point2\CSharpXUnit_4Point2\obj\Debug\netcoreapp3.1\CSharpXUnit_4Point2.AssemblyInfoInputs.cache
+C:\Users\write\source\repos\CSharpXUnit_4Point2\CSharpXUnit_4Point2\obj\Debug\netcoreapp3.1\CSharpXUnit_4Point2.AssemblyInfo.cs
